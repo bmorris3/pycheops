@@ -1,11 +1,11 @@
 PYCHEOPS
 ========
 
-Python package for the analysis of light curves from the ESA CHEOPS mission <http://cheops.unibe.ch/>.
+Python package for the analysis of light curves from the `ESA CHEOPS mission <http://cheops.unibe.ch/>`_.
 
-Use *pip install pycheops* to install.
+Use `pip install pycheops` to install.
 
-See examples/Notebooks for examples.
+See `pycheops/examples/Notebooks <https://github.com/pmaxted/pycheops/tree/master/pycheops/examples/Notebooks>`_ for examples.
 
 
 Troubleshooting
@@ -14,7 +14,7 @@ Troubleshooting
 
 Installation fails with "ModuleNotFoundError: No module named 'pybind11'"
 --------------------------------------------------------------------------
-Run "pip install pybind11" then try again
+Run `pip install pybind11` then try again
 
 StarProperties(dataset.target) produces "Segmentation fault: 11"
 -----------------------------------------------------------------
